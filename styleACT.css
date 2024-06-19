@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tajawal', sans-serif;
+    
+
+
+}
+#titulo{
+    margin-top: 20px;
+    margin-left: 20px;
+    color:black;
+}
+.lista-cartas{
+    display: flex;
+    margin-left: 40px;
+}
+.carta-clase{
+    margin-left: 37px;
+}
+#version{
+    color: red;
+    margin-left: 60px;
+}
+#parrafo{
+    text-align: center;
+    margin-bottom: 5px;
+}
+#footer{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+#textFooter{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.nav-buttonToyota:hover{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(109, 3, 3);
+}
+.nav-buttonToyota{
+    background-color: transparent;
+    border: none;
+    margin-right:20px;
+}
+
+.card-title:hover{
+    color: rgb(63, 107, 252);
+}
+#color2{
+    color: black;
+}
+.imagenes{
+    display: flex;
+}
+#texto{
+    text-align: center;
+}
+.nav-buttonFordVolks:hover{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0, 57, 245);
+}
+.nav-buttonFordVolks{
+    background-color: transparent;
+    border: none;
+    margin-right:20px;
+}
+
+.card{
+    
+    margin-left: 20px;
+}
+.boton-deCartaSubmitToyota:hover{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(226, 38, 38);
+    color: white;
+}
+.boton-deCartaSubmitToyota{
+    border: none;
+    color: white;
+    background-color:transparent;
+    
+}
+
+.nav-button:hover{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(116, 117, 121);
+}
+.nav-button{
+    background-color: transparent;
+    border: none;
+    margin-right: 20px;
+}
+.body{
+    background-color: black;
+    color: white;
+}
+
+.carousel-image{
+    margin-left: 200px;
+}
+.nav{
+    margin-top: -40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding: 3px;
+}
+.card-body{
+    background-color: rgb(54, 54, 54);
+}
+.card{
+    color: white;
+    background-color: rgb(54, 54, 54);
+}
+.cartas-marcas{
+    display: flex;
+    margin-left: 200px;
+}
+#texto-carousel{
+    text-align: center;
+    margin-top: 20px;
+}
+#mapa{
+    text-align: center;
+}
+.carousel-control-prev{
+    border-color:black;
+    color: black;
+}
+.carousel-control-prev-icon{
+    color: black;
+}
+#texto-cartita1{
+    margin-left: 100px;
+}
+#texto-cartita{
+    margin-left: 700px;
+}
+.titulos-cartas{
+    display: flex;
+}
+.cartas-marcas{
+    margin-left:40px ;
+}
+header{
+    background-color: white;
+    padding: 5px;
+}.nav  .nav-item .nav-link{
+    color: black;
+    font-size: 20px;
+}
+.card{
+    background-color: rgb(54, 54, 54);
+}
+.cartas{
+    display: flex;
+}
+.logo{
+ width: 5%;
+ margin-top: 10px;
+ margin-left: 10px;   
+}
